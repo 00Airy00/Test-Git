@@ -3,3 +3,5 @@
 Edit 01
 
 Edit 02
+
+Edit 03 - Testing multi-commit
